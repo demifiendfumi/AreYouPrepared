@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Are You Prepared</string>
+    <string name="tutorial1">
+        1. Tap on the options to progress the story.
+    </string>
+    <string name="tutorial2">
+        2. To progress the text, tap on the screen.
+    </string>
+</resources>
